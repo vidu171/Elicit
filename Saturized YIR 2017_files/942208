@@ -254,7 +254,7 @@ typeof magJsonCallback === 'function' && magJsonCallback({
             "hidden": false,
             "z": 205,
             "version": 2,
-            "text": "<p data-style-phone_portrait=\"line-height: 9px; font-size: 8px; text-align: right;\" data-anchor-link-pos-phone_portrait=\"empty\" style=\"line-height: 11px; font-size: 10px; text-align: right;\"><span data-anchor-link-pos-phone_portrait=\"empty\" style=\"font-family: Rajdhani; font-weight: bold; font-style: normal; color: #ebe0ca;\">A YEAR IN REVIEW</span></p>\n<p data-style-phone_portrait=\"line-height: 9px; font-size: 8px; text-align: right;\" data-anchor-link-pos-phone_portrait=\"empty\" style=\"line-height: 11px; font-size: 10px; text-align: right;\"><span data-anchor-link-pos-phone_portrait=\"empty\" style=\"font-family: Rajdhani; font-weight: bold; font-style: normal; color: #ebe0ca;\">2017</span></p>",
+            "text": "<p data-style-phone_portrait=\"line-height: 9px; font-size: 8px; text-align: right;\" data-anchor-link-pos-phone_portrait=\"empty\" style=\"line-height: 11px; font-size: 10px; text-align: right;\"><span data-anchor-link-pos-phone_portrait=\"empty\" style=\"font-family: Rajdhani; font-weight: bold; font-style: normal; color: #ebe0ca;\">A YEAR IN REVIEW</span></p>\n<p data-style-phone_portrait=\"line-height: 9px; font-size: 8px; text-align: right;\" data-anchor-link-pos-phone_portrait=\"empty\" style=\"line-height: 11px; font-size: 10px; text-align: right;\"><span data-anchor-link-pos-phone_portrait=\"empty\" style=\"font-family: Rajdhani; font-weight: bold; font-style: normal; color: #ebe0ca;\">2018</span></p>",
             "type": "text",
             "h": 24,
             "w": 81,
@@ -430,7 +430,7 @@ typeof magJsonCallback === 'function' && magJsonCallback({
             "loop": false,
             "autoplay": false,
             "start_time": null,
-            "title": "ellicit Showreel 2017",
+            "title": "ellicit Showreel 2018",
             "provider_name": "Vimeo",
             "video_id": 249111465,
             "url": "https://vimeo.com/249111465",
@@ -507,7 +507,7 @@ typeof magJsonCallback === 'function' && magJsonCallback({
             "hidden": false,
             "z": 112,
             "version": 2,
-            "text": "<p data-style-phone_portrait=\"line-height: 18px; font-size: 14px; text-align: center; padding-top: 0px;\" data-anchor-link-pos-phone_portrait=\"empty\" style=\"line-height: 30px; font-size: 24px; text-align: center; padding-top: 0px;\"><span data-style-phone_portrait=\"font-family: Rajdhani; letter-spacing: 2px; text-transform: uppercase; font-weight: 600; font-style: normal; color: #ebe0ca;\" data-anchor-link-pos-phone_portrait=\"empty\" style=\"font-family: Rajdhani; letter-spacing: 2px; text-transform: uppercase; font-weight: 500; font-style: normal; color: #ebe0ca;\">SHOWREEL 2017</span></p>",
+            "text": "<p data-style-phone_portrait=\"line-height: 18px; font-size: 14px; text-align: center; padding-top: 0px;\" data-anchor-link-pos-phone_portrait=\"empty\" style=\"line-height: 30px; font-size: 24px; text-align: center; padding-top: 0px;\"><span data-style-phone_portrait=\"font-family: Rajdhani; letter-spacing: 2px; text-transform: uppercase; font-weight: 600; font-style: normal; color: #ebe0ca;\" data-anchor-link-pos-phone_portrait=\"empty\" style=\"font-family: Rajdhani; letter-spacing: 2px; text-transform: uppercase; font-weight: 500; font-style: normal; color: #ebe0ca;\">SHOWREEL 2018</span></p>",
             "type": "text",
             "h": 31,
             "w": 236,
@@ -4073,7 +4073,7 @@ typeof magJsonCallback === 'function' && magJsonCallback({
             "x": -765,
             "_id": "5a561d2ac1e153142889a738"
         }, {
-            "name": "2017",
+            "name": "2018",
             "viewport_phone_portrait": {
                 "z": 101,
                 "h": 196,
@@ -4087,11 +4087,11 @@ typeof magJsonCallback === 'function' && magJsonCallback({
                 "border_size": 0,
                 "picture": {
                     "effect": "",
-                    "final2xUrl": "https://rm-content.s3-accelerate.amazonaws.com/5285014aa6d855ba50004d11/942208/upload-43a91e70-fbc7-11e7-b510-2d90cfc705df.gif",
-                    "finalUrl": "https://rm-content.s3-accelerate.amazonaws.com/5285014aa6d855ba50004d11/942208/upload-43a91e70-fbc7-11e7-b510-2d90cfc705df.gif",
-                    "unscaledUrl": "https://rm-content.s3-accelerate.amazonaws.com/5285014aa6d855ba50004d11/942208/upload-43a91e70-fbc7-11e7-b510-2d90cfc705df.gif",
+                    "final2xUrl": "",
+                    "finalUrl": "https://rm-content.s3-accelerate.amazonaws.com/5285014aa6d855ba50004d11/942208/2018.gif",
+                    "unscaledUrl": "https://rm-content.s3-accelerate.amazonaws.com/5285014aa6d855ba50004d11/942208/2018.gif",
                     "type": "gif",
-                    "url": "https://rm-content.s3-accelerate.amazonaws.com/5285014aa6d855ba50004d11/942208/upload-43a91e70-fbc7-11e7-b510-2d90cfc705df.gif",
+                    "url": "https://rm-content.s3-accelerate.amazonaws.com/5285014aa6d855ba50004d11/942208/2018.gif",
                     "thumbUrl": "https://rm-content.s3-accelerate.amazonaws.com/5285014aa6d855ba50004d11/942208/upload-43a94580-fbc7-11e7-b510-2d90cfc705df.gif"
                 }
             },
@@ -4114,11 +4114,11 @@ typeof magJsonCallback === 'function' && magJsonCallback({
             "border_size": 0,
             "picture": {
                 "effect": "",
-                "final2xUrl": "https://d3n32ilufxuvd1.cloudfront.net/5285014aa6d855ba50004d11/942208/upload-43a91e70-fbc7-11e7-b510-2d90cfc705df.gif",
-                "finalUrl": "https://d3n32ilufxuvd1.cloudfront.net/5285014aa6d855ba50004d11/942208/upload-43a91e70-fbc7-11e7-b510-2d90cfc705df.gif",
-                "unscaledUrl": "https://d3n32ilufxuvd1.cloudfront.net/5285014aa6d855ba50004d11/942208/upload-43a91e70-fbc7-11e7-b510-2d90cfc705df.gif",
+                "final2xUrl": "Saturized%20YIR%202017_files/2018.gif",
+                "finalUrl": "Saturized%20YIR%202017_files/2018.gif",
+                "unscaledUrl": "Saturized%20YIR%202017_files/2018.gif",
                 "type": "gif",
-                "url": "https://d3n32ilufxuvd1.cloudfront.net/5285014aa6d855ba50004d11/942208/upload-43a91e70-fbc7-11e7-b510-2d90cfc705df.gif",
+                "url": "https://d3n32ilufxuvd1.cloudfront.net/5285014aa6d855ba50004d11/942208/2018.gif",
                 "thumbUrl": "https://d3n32ilufxuvd1.cloudfront.net/5285014aa6d855ba50004d11/942208/upload-43a94580-fbc7-11e7-b510-2d90cfc705df.gif"
             },
             "z": 101,
@@ -4248,7 +4248,7 @@ typeof magJsonCallback === 'function' && magJsonCallback({
         },
         "screenshot": "https://d3n32ilufxuvd1.cloudfront.net/5285014aa6d855ba50004d11/942208/screenshot-eedef690-ffc1-11e7-9a0a-4bb04f9640b3_readyscr.jpg",
         "mid": "5a476856e6dc982d5d97ab4a",
-        "title": "YIR 2017",
+        "title": "Year",
         "num": 1,
         "num_id": 3187275,
         "_id": "5a476856e6dc982d5d97ab4c"
@@ -4422,12 +4422,12 @@ typeof magJsonCallback === 'function' && magJsonCallback({
     "is_published": true,
     "changelog": [],
     "is_private": false,
-    "creation_date": "2017-12-30T10:20:06.287Z",
+    "creation_date": "2018-12-30T10:20:06.287Z",
     "used_custom_fonts": [],
-    "last_checked_domain": "2017.ellicit.com",
+    "last_checked_domain": "2018.ellicit.com",
     "updated": "2018-01-22T22:16:35.682Z",
-    "published": "2017-12-30T11:09:32.240Z",
-    "major_update": "2017-12-30T11:09:32.240Z",
+    "published": "2018-12-30T11:09:32.240Z",
+    "major_update": "2018-12-30T11:09:32.240Z",
     "changed": false,
     "coverPid": "5a476856e6dc982d5d97ab4c",
     "last_changed": "2018-01-22T22:16:01.581Z",
@@ -4435,8 +4435,8 @@ typeof magJsonCallback === 'function' && magJsonCallback({
     "ci_css": "",
     "ci_body_top": "",
     "ci_body_bottom": "",
-    "title": "ellicit YIR 2017",
-    "description": "Year in Review 2017 — ellicit, The Interactive Agency",
+    "title": "Ellicit - 2018",
+    "description": "Year in Review 2018— ellicit, ACM",
     "user": {
         "_id": "5285014aa6d855ba50004d11",
         "name": "Goran Bajazetov",
@@ -4468,7 +4468,7 @@ typeof magJsonCallback === 'function' && magJsonCallback({
         "menubutton": false,
         "arrows": false
     },
-    "pass_last_changed": "2017-12-30T10:20:06.287Z",
+    "pass_last_changed": "2018-12-30T10:20:06.287Z",
     "likers": [],
     "cover": "https://d3n32ilufxuvd1.cloudfront.net/5285014aa6d855ba50004d11/942208/screenshot-eedef690-ffc1-11e7-9a0a-4bb04f9640b3_readyscr.jpg",
     "recentMags": []
